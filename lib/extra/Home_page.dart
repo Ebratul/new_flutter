@@ -1259,20 +1259,6 @@ class AboutBloodDonationScreen extends StatelessWidget {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Blood Organization Screen
 class BloodOrganizationScreen extends StatelessWidget {
   @override
@@ -1509,14 +1495,6 @@ class BloodOrganizationScreen extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-
-
-
 
 // User Profile Screen
 class UserProfileScreen extends StatefulWidget {
