@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768517836110",
+    "project_id": "fire-69e3d",
+    "storage_bucket": "fire-69e3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768517836110:android:41b565a5d60e1bb221221f",
+        "android_client_info": {
+          "package_name": "com.example.blood_bd_sust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYWUCFXANucr-6k9LriWcMJSbQQhwg5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
